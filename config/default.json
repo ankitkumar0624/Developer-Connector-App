@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://Ankit123:Ankit123@devconnector.ratwayc.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"656db907588b1e7ebe82",
+    "githubSecret":"6ed316843677715ea97e918a79d64dfb8d09a95f"
+
+}
